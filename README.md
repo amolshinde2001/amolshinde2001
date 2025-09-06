@@ -24,4 +24,3 @@ Projects
 Connect with Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/<your-linkedin-id>/)  
 - Email: [Your Email](mailto:<your-email@example.com>)
-- 
