@@ -22,5 +22,5 @@ Projects
 - 🚆 [Train Information System](https://github.com/amolshinde2001/Train-Information-System) – Core Java project to fetch train schedules & availability  
 
 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/amol-shinde-b73b94222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Email: [Your Email](mailto:amolbshinde2001@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amol-shinde-b73b94222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- Email: [Email](mailto:amolbshinde2001@gmail.com)
