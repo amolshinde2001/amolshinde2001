@@ -7,7 +7,7 @@ Hi, I'm Amol Shinde 👋
 About Me
 - 2+ years of professional experience in Java & Spring Boot  
 - Experienced in building Microservices, Multithreading, REST APIs, and File Processing  
-- Exploring Cloud, System Design & Scalable Backend Architectures  
+- Strong problem-solving skills and focus on writing clean, efficient, and maintainable code
 - Open to collaboration on Java & Spring Boot projects  
 
 Tech Stack
@@ -16,9 +16,9 @@ Tech Stack
 - Tools & Platforms: Git, GitHub, Jira, Maven, Postman  
 
 Projects
-- 🍔 [Online Food Delivery System](https://github.com/<your-username>/food-delivery-system) – Microservices project with Auth, Order, Payment, and Delivery services  
-- 🏦 [Multithreaded Banking Simulator](https://github.com/<your-username>/banking-simulator) – Simulated deposits, withdrawals, and transfers using ReentrantLock & ExecutorService  
-- 📝 [Quiz App](https://github.com/<your-username>/quiz-app) – Spring Boot backend with HTML/CSS/JS frontend for dynamic quizzes  
+- 🍔 [Online Food Delivery System](https://github.com/<your-username>/food-delivery-system) – Microservices project with JWT Auth, Orders, Payments, Notifications, Restaurants services with Eureka and API Gateway  
+- 🏦 [Multithreaded Banking Simulator](https://github.com/<your-username>/banking-simulator) – banking simulator with multithreaded deposits, withdrawals, transfers, ensuring consistency using ReentrantLock & ExecutorService  
+- 📝 [Quiz App](https://github.com/<your-username>/quiz-app) – Quiz Application with a Spring Boot backend (HashMap-based Q&A storage) and HTML/CSS/JavaScript frontend, enabling dynamic quiz interaction and real-time scoring  
 - 🚆 [Train Information System](https://github.com/<your-username>/train-info-system) – Core Java project to fetch train schedules & availability  
 
 Connect with Me
