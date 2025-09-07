@@ -16,11 +16,11 @@ Tech Stack
 - Tools & Platforms: Git, GitHub, Jira, Maven, Postman  
 
 Projects
-- 🍔 [Online Food Delivery System](https://github.com/<your-username>/food-delivery-system) – Microservices project with JWT Auth, Orders, Payments, Notifications, Restaurants services with Eureka and API Gateway  
-- 🏦 [Multithreaded Banking Simulator](https://github.com/<your-username>/banking-simulator) – banking simulator with multithreaded deposits, withdrawals, transfers, ensuring consistency using ReentrantLock & ExecutorService  
-- 📝 [Quiz App](https://github.com/<your-username>/quiz-app) – Quiz Application with a Spring Boot backend (HashMap-based Q&A storage) and HTML/CSS/JavaScript frontend, enabling dynamic quiz interaction and real-time scoring  
-- 🚆 [Train Information System](https://github.com/<your-username>/train-info-system) – Core Java project to fetch train schedules & availability  
+- 🍔 [Online Food Delivery System](https://github.com/amolshinde2001/Online-Food-Delivery-System) – Microservices project with JWT Auth, Orders, Payments, Notifications, Restaurants services with Eureka and API Gateway  
+- 🏦 [Multithreaded Banking Simulator](https://github.com/amolshinde2001/Multithreaded-Banking-Transactions-Simulator) – banking simulator with multithreaded deposits, withdrawals, transfers, ensuring consistency using ReentrantLock & ExecutorService  
+- 📝 [Quiz App](https://github.com/amolshinde2001/Quiz-App) – Quiz Application with a Spring Boot backend (HashMap-based Q&A storage) and HTML/CSS/JavaScript frontend, enabling dynamic quiz interaction and real-time scoring  
+- 🚆 [Train Information System](https://github.com/amolshinde2001/Train-Information-System) – Core Java project to fetch train schedules & availability  
 
 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/<your-linkedin-id>/)  
-- Email: [Your Email](mailto:<your-email@example.com>)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/amol-shinde-b73b94222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- Email: [Your Email](mailto:amolbshinde2001@gmail.com)
